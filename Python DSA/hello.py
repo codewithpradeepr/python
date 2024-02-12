@@ -1,4 +1,1 @@
-from ctypes.wintypes import PUSHORT
-
-
-#test PUSHORT
+print("hello world")
